@@ -12,6 +12,7 @@ import AddHorses from './components/AddHorses';
 function App() {
   return (
 
+
     <Router>
 
     <div className="App">
@@ -45,7 +46,41 @@ function App() {
 
 
     </Routes>
+    <br /><br /><br />
+    <footer className='lol'>
+        <div className='row'>
+          
+          <div className='col-md-8'>
+        
+         <h1>Information</h1>
+         <p>Stablex is a modern horse rental and equestrian marketplace dedicated to connecting people with exceptional horses for riding, training, and adventure. We believe that every rider, whether beginner or experienced, deserves access to well-trained, healthy, and reliable horses.
 
+        Our platform offers a wide selection of horses suited for leisure rides, events, and long-distance experiences. At Stablex, we prioritize animal welfare, quality service, and customer satisfaction, ensuring every interaction is safe, transparent, and enjoyable.
+
+          We work closely with trusted breeders, trainers, and stable owners to bring you horses that meet high standards of care and performance. Our mission is to make horse riding more accessible, convenient, and exciting across Kenya.
+
+          Stablex is more than a marketplace—it’s a community built around passion, trust, and the love of horses.
+</p>
+         </div>
+
+         <div className='col-md-4'>
+          <h1>Contact us</h1>
+          <p>We’d love to hear from you! .
+            <br /><br />
+             Location: Karen, Nairobi, Kenya <br /><br />
+             Phone: +254 700 000 000 <br /><br />
+             Email: [kihethu@stablex.co.ke](support@stablex.co.ke)
+<br /><br />
+
+At Stablex, your riding experience is our priority. Feel free to connect with us anytime!
+</p>
+         
+         </div>
+
+       
+
+        </div>
+        </footer> 
 
       </div>
     

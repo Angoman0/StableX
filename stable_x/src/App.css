@@ -21,7 +21,7 @@
   align-items: center;
   justify-content: top;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(250, 195, 174);
 }
 
 .App-link {
@@ -43,6 +43,25 @@
 }
 
 #b{
-  background-color: #D4AF37;
+  background-color: #db6b0e;
 }
+
+#bg{
+  background-color: #db6b0e;
+}
+
+.product_image {
+  width: 110%;
+  height: 250px;
+  object-fit: contain;
+  border-radius: 10px;
+}
+
+.lol{
+  background-color: #1B4332;
+ text-align: center;
+  color: rgb(250, 195, 174);
+  
+}
+
 
